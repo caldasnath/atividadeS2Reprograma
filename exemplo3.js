@@ -1,4 +1,4 @@
-// Crie um animal que leia o valor de um jantar, calcule e informe o
+// Crie um algoritimo que leia o valor de um jantar, calcule e informe o
 //valor da taxa do garçom (10%) e o valor total a ser pago
 
 
