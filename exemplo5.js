@@ -1,3 +1,6 @@
+// Receba os usuários 3 números e calcule a média entre eles.
+
+
 let unidade1 = 8
 let unidade2 = 7
 let unidade3 = 5

@@ -1,3 +1,6 @@
+// Solicite o preço de envio e o percentual de desconto 20%.
+// Exiba no console o valor do desconto eo preço a pagar.
+
 
 let precoInicial = 100
 let desconto = 20
