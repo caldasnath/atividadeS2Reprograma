@@ -1,5 +1,5 @@
-// Calcular o tempo de uma viagem de carro.
-// Pergunte distância a distância média a distância para viagem.
+// Calcule o tempo de uma viagem de carro. 
+// Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
 
 let distancia = 110
 let velocidadePorHora = 100
