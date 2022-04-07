@@ -1,4 +1,4 @@
-// Solicite o preço de uma mercadoria e o percentual de desconto 20%. 
+// 1 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. 
 // Exiba no console o valor do desconto e o preço a pagar.
 
 
@@ -7,9 +7,10 @@ let desconto = 20
 
 let descontoEmDinheiro = (precoInicial * desconto) /100
 
-console.log(descontoEmDinheiro)
 console.log(precoInicial-descontoEmDinheiro)
+// O valor do preço a pagar é R$ 80,00
 
-
+console.log(descontoEmDinheiro)
+//O valor do desconto em dinheiro é de R$ 20,00
 
 
